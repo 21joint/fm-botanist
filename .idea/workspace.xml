@@ -2,7 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48b70d5d-3a3a-4e2f-b0ec-95a2f58c145f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Belleza/Belleza-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Belleza/Belleza-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Belleza/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Bhavuka/Bhavuka-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Bhavuka/Bhavuka-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Bhavuka/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Bodoni Old Face BE Small Caps  Regular/BodoniOldFaceBE-RegularSC.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Bodoni Old Face BE Small Caps  Regular/BodoniOldFaceBE-RegularSC.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Bodoni Old Face BE Small Caps  Regular/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/Quicksand-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/Quicksand-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/Quicksand-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/Quicksand-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/Quicksand-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/Quicksand-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Quicksand/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/herbs_pattern_3-compressor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/botanist/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/botanist/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Belleza.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Bhavuka-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Bodoni Old Face BE Small Caps  Regular (1)/Bodoni Old Face BE Small Caps  Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Bodoni Old Face BE Small Caps  Regular (1)/readme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/botanist logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/botanist_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/botanistlogo-coloroverlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/botanistlogo-coloroverlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/herbs_pattern_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/herbs_pattern_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/botanist-justBooksmall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/botanist/botanist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/botanist/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/botanist/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/botanist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -13,159 +56,221 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2056430999">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="babelrc" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="3" />
-          <entry key="js" value="6" />
-          <entry key="json" value="1" />
-          <entry key="scss" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="3" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="6" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts">
-        <counts>
-          <entry key="ESLintLanguageService" value="1" />
-          <entry key="PrettierLanguageServiceImpl" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="babelrc" value="24" />
-          <entry key="html" value="95" />
-          <entry key="js" value="1154" />
-          <entry key="json" value="15" />
-          <entry key="scss" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="95" />
-          <entry key="JSON" value="39" />
-          <entry key="JavaScript" value="1154" />
-          <entry key="SCSS" value="17" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="82" column="42" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.babelrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.dev.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/botanist/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/botanist/botanist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/botanist/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/index.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.7167868">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/assets/scss/index.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="231">
+                  <caret line="204" column="19" selection-start-line="204" selection-start-column="19" selection-end-line="204" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#248#584#0" />
+                    <element signature="e#603#626#0" />
+                    <element signature="e#630#760#0" />
+                    <element signature="e#709#758#0" />
+                    <element signature="e#772#1167#0" />
+                    <element signature="e#985#1165#0" />
+                    <element signature="e#1181#1268#0" />
+                    <element signature="e#1237#1266#0" />
+                    <element signature="e#1279#1696#0" />
+                    <element signature="e#1631#1694#0" />
+                    <element signature="e#1712#1919#0" />
+                    <element signature="e#1933#2187#0" />
+                    <element signature="e#1957#2068#0" />
+                    <element signature="e#2034#2064#0" />
+                    <element signature="e#2156#2185#0" />
+                    <element signature="e#2206#2323#0" />
+                    <element signature="e#2294#2321#0" />
+                    <element signature="e#2335#2520#0" />
+                    <element signature="e#2351#2431#0" />
+                    <element signature="e#2381#2427#0" />
+                    <element signature="e#2449#2475#0" />
+                    <element signature="e#2492#2518#0" />
+                    <element signature="e#2532#2714#0" />
+                    <element signature="e#2634#2712#0" />
+                    <element signature="e#2729#2976#0" />
+                    <element signature="e#2952#2974#0" />
+                    <element signature="e#2995#3092#0" />
+                    <element signature="e#3064#3090#0" />
+                    <element signature="e#3106#3489#0" />
+                    <element signature="e#3498#3520#0" />
+                    <element signature="e#3531#3554#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/botanist/footer.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                  <folding>
+                    <element signature="e#129#135#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/botanist/main.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="245">
+                  <caret line="48" column="143" selection-start-line="48" selection-start-column="143" selection-end-line="48" selection-end-column="143" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.ejs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-114">
+                  <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/botanist/header.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="28" selection-end-line="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webpack.dev.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webpack.prod.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="630">
+                  <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dist/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="618" selection-start-column="618" selection-end-column="618" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.babelrc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webpack.config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1380">
+                  <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/assets/fonts/Quicksand/stylesheet.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="603">
+                  <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>post</find>
+      <find>$container</find>
+      <find>view</find>
+      <find>botanist-l</find>
+      <find>image</find>
+      <find>botanist-</find>
+      <find>foot</find>
+      <find>book-ul</find>
+      <find>-logo</find>
+      <find>cross</find>
+      <find>font-fami</find>
+      <find>sass</find>
+      <find>margin</find>
+      <find>bst</find>
+      <find>Copyrig</find>
+      <find>margin-bott</find>
+      <find>IS_DEV</find>
     </findStrings>
+    <replaceStrings>
+      <replace>bst</replace>
+      <replace>bst-</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -175,39 +280,42 @@
       <list>
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/src/botanist.html" />
+        <option value="$PROJECT_DIR$/src/header.html" />
+        <option value="$PROJECT_DIR$/src/botanist/botanist.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/botanist/botanist.html" />
+        <option value="$PROJECT_DIR$/src/assets/images/if_FB_1217112.svg" />
+        <option value="$PROJECT_DIR$/src/assets/images/if_38-instagram_1161953.svg" />
+        <option value="$PROJECT_DIR$/src/botanist/social.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/botanist/index.html" />
+        <option value="$PROJECT_DIR$/src/botanist/header.html" />
+        <option value="$PROJECT_DIR$/dist/1.66e993f59e88a18abebd.css" />
+        <option value="$PROJECT_DIR$/src/botanist/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/scss/common.scss" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
+        <option value="&lt;ead9c4aa-c95d-4873-abad-dbf5161c28a2&gt;/var/www/html/botanist/index.html" />
+        <option value="$PROJECT_DIR$/src/assets/fonts/Quicksand/stylesheet.css" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/webpack.prod.js" />
-        <option value="$PROJECT_DIR$/src/botanist.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/header.html" />
-        <option value="$PROJECT_DIR$/src/assets/scss/index.scss" />
-        <option value="$PROJECT_DIR$/src/botanist/botanist.js" />
+        <option value="$PROJECT_DIR$/src/botanist/footer.html" />
         <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/botanist/index.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/webpack.dev.js" />
+        <option value="$PROJECT_DIR$/src/index.ejs" />
+        <option value="$PROJECT_DIR$/src/botanist/main.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/index.scss" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="1103" />
-    <option name="width" value="1565" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
     <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -224,6 +332,17 @@
               <item name="fm-botanist2" type="b2602c69:ProjectViewProjectNode" />
               <item name="fm-botanist2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fm-botanist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fm-botanist2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fm-botanist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fm-botanist2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="botanist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,9 +350,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -247,7 +372,17 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts/Quicksand" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+      <recent name="$PROJECT_DIR$/src/assets/Belleza" />
+      <recent name="$PROJECT_DIR$/src/assets/Bodoni Old Face BE Small Caps  Regular" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
       <recent name="$PROJECT_DIR$/src/botanist" />
     </key>
   </component>
@@ -263,8 +398,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
@@ -274,8 +419,13 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.build" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -290,120 +440,131 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542526952506</updated>
-      <workItem from="1542526953956" duration="5380000" />
+      <workItem from="1542526953956" duration="23270000" />
+      <workItem from="1542643879488" duration="7191000" />
+      <workItem from="1542729820939" duration="34774000" />
+      <workItem from="1542988592313" duration="1408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5380000" />
+    <option name="totallyTimeSpent" value="66643000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="1103" width="1440" height="807" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.090844065" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49682876" visible="true" weight="0.5132867" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5024665" side_tool="true" weight="0.3997175" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.56366235" weight="0.4167832" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.3204578" side_tool="true" visible="true" weight="0.46013987" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.32867134" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49753347" weight="0.4797203" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.4985694" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49499285" weight="0.5902098" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" sideWeight="0.6795422" visible="true" weight="0.46013987" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="12" sideWeight="0.49785408" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.13876967" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/assets/botanist" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/dist/styles/8.42099e803cd73704fbe5.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/7.42099e803cd73704fbe5.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles.bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.b464073ca42553946e70.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/botanist.b464073ca42553946e70.css" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.04527b546a3e9974e096.js" />
+    <entry file="file://$PROJECT_DIR$/dist/styles.49a8eba957bdcbbe5a4d.js" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.49a8eba957bdcbbe5a4d.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/purifycss-webpack/dist/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="-816">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.prod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/dist/styles/botanist.c93fb2d52540e66cedac.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/botanist.e86474e2fa9330f2506c.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.bceada3943a5f53fae47.css" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.5d05fc924502fd187569.js" />
+    <entry file="file://$PROJECT_DIR$/dist/vendor.e1677c8433ab3d680421.js" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/botanist.2bc7c280d40afe61cd64.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.587c3a2b667c13df2d3e.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/botanist.af2b333c573a3ed4dbf7.css" />
+    <entry file="file://$PROJECT_DIR$/dist/vendor.7043de16c90dd015386c.js" />
+    <entry file="file://$PROJECT_DIR$/dist/1.197e92d10abc9c9f18b3.js" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.db487c9b23e60a843871.js" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.8893d0503736d3174236.css" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.69ec472e437039efd5a4.css" />
+    <entry file="file://$PROJECT_DIR$/dist/1.9be52870889bd9e7650d.js" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.302d8ca238a4791e29d8.css" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.fdd3d3de1fa719a6a927.js" />
+    <entry file="file://$PROJECT_DIR$/dist/1.e69348e2718232f4d41f.js" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.f5aaa19d289d75720d4c.js" />
+    <entry file="file://$PROJECT_DIR$/dist/1.e5bfb6f1e6cef095abe6.js" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.e5bfb6f1e6cef095abe6.js" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/1.f4b6588bf4547f92a16f.css" />
+    <entry file="file://$PROJECT_DIR$/dist/1.bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/botanist.bundle.js" />
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/common.scss" />
+    <entry file="file://$PROJECT_DIR$/dist/styles/index.2b86745c50501cf32ea0.css" />
+    <entry file="file://$PROJECT_DIR$/dist/index.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret column="48305" lean-forward="true" selection-start-column="48305" selection-end-column="48305" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/botanist/botanist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/dist/HtmlWebpackPlugin_0.html" />
     <entry file="file://$PROJECT_DIR$/src/botanist/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <caret line="6" column="28" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/botanist/index.js">
+    <entry file="file://$PROJECT_DIR$/webpack.prod.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="630">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/index.scss">
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -412,15 +573,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+        <state relative-caret-position="1380">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/assets/fonts/Quicksand/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="82" column="42" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="42" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="618" selection-start-column="618" selection-end-column="618" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/botanist/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#129#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/botanist/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="48" column="143" selection-start-line="48" selection-start-column="143" selection-end-line="48" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="204" column="19" selection-start-line="204" selection-start-column="19" selection-end-line="204" selection-end-column="19" />
+          <folding>
+            <element signature="e#248#584#0" />
+            <element signature="e#603#626#0" />
+            <element signature="e#630#760#0" />
+            <element signature="e#709#758#0" />
+            <element signature="e#772#1167#0" />
+            <element signature="e#985#1165#0" />
+            <element signature="e#1181#1268#0" />
+            <element signature="e#1237#1266#0" />
+            <element signature="e#1279#1696#0" />
+            <element signature="e#1631#1694#0" />
+            <element signature="e#1712#1919#0" />
+            <element signature="e#1933#2187#0" />
+            <element signature="e#1957#2068#0" />
+            <element signature="e#2034#2064#0" />
+            <element signature="e#2156#2185#0" />
+            <element signature="e#2206#2323#0" />
+            <element signature="e#2294#2321#0" />
+            <element signature="e#2335#2520#0" />
+            <element signature="e#2351#2431#0" />
+            <element signature="e#2381#2427#0" />
+            <element signature="e#2449#2475#0" />
+            <element signature="e#2492#2518#0" />
+            <element signature="e#2532#2714#0" />
+            <element signature="e#2634#2712#0" />
+            <element signature="e#2729#2976#0" />
+            <element signature="e#2952#2974#0" />
+            <element signature="e#2995#3092#0" />
+            <element signature="e#3064#3090#0" />
+            <element signature="e#3106#3489#0" />
+            <element signature="e#3498#3520#0" />
+            <element signature="e#3531#3554#0" />
+          </folding>
         </state>
       </provider>
     </entry>

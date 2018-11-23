@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bodoni Old Face BE';
+    src: url('BodoniOldFaceBE-RegularSC.woff2') format('woff2'),
+        url('BodoniOldFaceBE-RegularSC.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

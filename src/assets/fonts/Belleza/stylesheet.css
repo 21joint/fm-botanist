@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Belleza';
+    src: url('Belleza-Regular.woff2') format('woff2'),
+        url('Belleza-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
